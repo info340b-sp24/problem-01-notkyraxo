@@ -1,0 +1,8 @@
+/* Changes body's font size and font family*/
+body {
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+ p {
+    line-height: 1.5;
+ }
